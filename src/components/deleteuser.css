@@ -1,0 +1,5 @@
+.delete-btn {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(135deg, rgba(0, 0, 0, 1) 0%, rgba(181, 130, 11, 1) 77%);
+    margin-top: 23px;
+}
